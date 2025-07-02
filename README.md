@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Willian Verri
 
-<!--
-**wverri/wverri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** apaixonado por jogos e automação.  
+Com experiência em C#, Python, SQL Server, Javascript, Node.js e Power BI.  
 
-Here are some ideas to get you started:
+[![E-mail](https://img.shields.io/badge/E-mail-D14836?logo=gmail)](mailto:willianverri@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- ## 🔭 Projetos em Destaque
+
+### [Nome-do-Projeto-1](link-para-o-repo)
+> Breve descrição do que faz, tecnologias usadas e impacto.  
+- 🛠️ C# | .NET | ServUO  
+- 🚀 Funcionalidade X implementada, elevando desempenho em Y%
+
+### [Nome-do-Projeto-2](link-para-o-repo)
+> Breve descrição…  
+- 🛠️ Python | Power BI REST API  
+- 📈 Automatização de relatórios diários sem Power BI Pro
+
+<!-- …adicione mais conforme desejar… -->
+
+---
+
+## 👨‍💻 Principais Skills
+
+| Linguagens       | Frameworks e Ferramentas    |
+| ---------------- | --------------------------- |
+| C#, Python, SQL  | .NET, PowerShell, Power BI  |
+| JavaScript, HTML | PowerShell, Node.js, React  |
+
+---
+
+## 📊 GitHub Stats
+
+![Willian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wverri&show_icons=true&theme=tokyonight)
+
+---
+
