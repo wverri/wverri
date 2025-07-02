@@ -36,5 +36,7 @@ Com experiência em C#, Python, SQL Server, Javascript, Node.js e Power BI.
 
 ![Willian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wverri&show_icons=true&theme=tokyonight)
 
+![snake animation](https://github.com/wverri/wverri/blob/output/github-contribution-grid-snake2.svg)
+
 ---
 
