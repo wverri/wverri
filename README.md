@@ -21,8 +21,6 @@ Com experiência em C#, Python, SQL Server, Javascript, Node.js e Power BI.
 
 <!-- …adicione mais conforme desejar… -->
 
----
-
 ## 👨‍💻 Principais Skills
 
 | Linguagens       | Frameworks e Ferramentas    |
