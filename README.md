@@ -26,14 +26,6 @@ Atuo no desenvolvimento de aplicações e ferramentas que automatizam fluxos de 
 | Dados | SQL Server, PostgreSQL, Supabase, Power BI |
 | Automação e DevOps | PowerShell, Git, Docker |
 
-## Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [neon-hud](https://github.com/wverri/neon-hud) | Painel lateral para o Claude Code com métricas ao vivo de tokens/s, contexto, custo, agentes e ferramentas | TypeScript |
-| [openwolf-vscode](https://github.com/wverri/openwolf-vscode) | Runtime portátil de hooks para o GitHub Copilot no VS Code, com persistência de contexto entre sessões do agente | JavaScript |
-| [Edge-to-Infinity](https://github.com/wverri/Edge-to-Infinity) | Aplicação web full-stack | Next.js · Supabase |
-
 ---
 
 <sub>Aberto a conversas sobre projetos, oportunidades e colaborações — entre em contato por e-mail.</sub>
